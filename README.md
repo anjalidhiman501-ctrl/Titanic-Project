@@ -1,9 +1,5 @@
 # 🚢 Titanic Dataset - Data Preprocessing & Pipeline Report
 
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.x-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-
 This repository contains the complete **Data Preprocessing and Feature Engineering Pipeline** for the Titanic Dataset. The goal of this pipeline is to transform raw, noisy, and incomplete passenger data into a clean, numerical format ready for Machine Learning models like `RandomForestClassifier`.
 
 ---
